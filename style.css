@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.btn{
+  border: dotted 3px black;
+  width: 30px;
+  height: 30px;
+  display: inline;
+  font-size: 30px;
+  color: yellow;
+  background-color: brown;
+}
+h1{
+  font-size:60px;
+  font-family:標楷體 ;
+}
